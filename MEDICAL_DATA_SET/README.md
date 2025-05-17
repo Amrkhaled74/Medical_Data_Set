@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project demonstrates a complete ETL (Extract, Transform, Load) pipeline using Informatica PowerCenter to process a medical dataset. The pipeline extracts raw data from a source, performs cleaning and transformation, and loads the processed data into a target system for analytics and reporting.
 
 🧱 Project Workflow
